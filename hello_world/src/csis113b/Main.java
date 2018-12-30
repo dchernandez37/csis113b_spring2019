@@ -25,4 +25,6 @@ public class Main
         // display the message to the console
         System.out.println(message);
     }
+    
+    // additional methods may be added below
 }
