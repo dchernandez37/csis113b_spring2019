@@ -23,5 +23,8 @@ public class Main
         
         // declare and initialize a result variable
         var result = firstNumber + secondNumber;
+
+        // declare and initialize a third variable
+        var thirdNumber = 11;
     }
 }
