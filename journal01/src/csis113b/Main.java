@@ -21,6 +21,7 @@ public class Main
         // declare and initialize using var
         var secondNumber = 7;
         
-        
+        // declare and initialize a result variable
+        var result = firstNumber + secondNumber;
     }
 }
