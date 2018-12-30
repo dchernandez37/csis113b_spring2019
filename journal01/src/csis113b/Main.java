@@ -8,6 +8,9 @@ public class Main
         // declare and initialize an integer
         int firstNumber = 3;
         
+        // declare and initialize using var
+        var secondNumber = 7;
+        
         
     }
 }
