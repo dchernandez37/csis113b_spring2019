@@ -26,5 +26,8 @@ public class Main
 
         // declare and initialize a third variable
         var thirdNumber = 11;
+
+        // subtract the third value from the current result
+        result -= thirdNumber;
     }
 }
